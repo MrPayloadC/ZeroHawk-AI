@@ -1,12 +1,13 @@
 # 🦅 ZeroHawk-AI
- | Developed by 🇧🇩 Bangladeshi Hacker: ZORVITHON ⚔
+ | Developed by 🇧🇩 Bangladeshi Hacker: MrPayloadC
+ ⚔
  
 **Elite AI-Powered Bug Bounty & Exploitation Toolkit**  
 *Strike silently. Detect instantly. Exploit precisely.*
 
 ---
 
-![banner](https://yourimagelink.com/banner.png) <!-- Replace with your actual banner/logo -->
+
 
 ## 📌 Description
 
